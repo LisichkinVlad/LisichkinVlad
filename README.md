@@ -1,6 +1,6 @@
 # Hi, I'm Vlad Lisichkin 👋
 
-I have been working as an outsource system administrator at Master-Service company from 2009 till now.
+I have been working as an outsource system administrator from 2009 till now.
 
 
 <p align='center'>
@@ -17,7 +17,7 @@ I have been working as an outsource system administrator at Master-Service compa
 
 ## I have expirience in
 - setting up debian-based unix systems
-- setting NAS for redundancy and performance improvement and setting communication protocols (NFS,SMB etc.)
+- setting up NAS for redundancy and performance improvement and setting communication protocols (NFS,SMB etc.)
 - virtualization (Proxmox) and containerization (Docker) management with devops of microservices (cloud file storage, mail server, inner text-audio-video sources hosting)
 - task automations with bash and python scripts
 
